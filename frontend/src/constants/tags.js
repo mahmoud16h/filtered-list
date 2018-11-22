@@ -1,0 +1,1 @@
+export const tags = ['red', 'romance', 'pink', 'wild']
