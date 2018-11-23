@@ -1,4 +1,4 @@
-# Filtered List\\
+# Filtered List
 
 To run the project, first run `npm install` then `npm run api`.
 
