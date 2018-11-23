@@ -25,7 +25,6 @@ const ProductCard = ({data}) => {
 
                             <div className='price'>£{product.price}</div>
                             <div
-                                click
                                 className='buy'
                                 onClick={()=>{alert(`Hey there, ${product.title} isn't really for sale, but the buy button does something :)`)}}>
                                 Buy
